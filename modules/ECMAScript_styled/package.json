@@ -1,0 +1,15 @@
+{
+  "name": "ecmascript_styled",
+  "version": "1.0.0",
+  "description": "this is package file",
+  "main": "impfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ritesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
