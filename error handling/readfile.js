@@ -1,6 +1,4 @@
 const fs=require('fs');
-
-
    fs.readFile('module/file.txt','utf-8',(err,data)=>{
     try{
     if(err)
